@@ -1,4 +1,4 @@
-# Misleading ChartQA - Checked Cases
+# Misleading ChartQA
 
 This repository contains the sample dataset for Misleading ChartQA.
 
