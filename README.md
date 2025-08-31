@@ -2,10 +2,6 @@
 
 This repository contains the sample dataset for Misleading ChartQA.
 
-## Statistics
-- Total sample cases: 305
-- Total files expected: 1220
-
 ## Directory Structure
 ```
 .
@@ -117,3 +113,7 @@ This repository contains the sample dataset for Misleading ChartQA.
 
 ### Missing Normalization
 - Choropleth Map: 5 cases
+
+## Statistics
+- Total sample cases: 305
+- Total files expected: 1220
