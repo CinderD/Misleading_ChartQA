@@ -1,6 +1,6 @@
 # Misleading ChartQA - Checked Cases
 
-This repository contains all cases with status "checked" from the Misleading ChartQA dataset.
+This repository contains the sample dataset for Misleading ChartQA.
 
 ## Statistics
 - Total sample cases: 305
