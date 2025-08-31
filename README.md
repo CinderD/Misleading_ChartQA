@@ -11,8 +11,8 @@ This repository contains the sample dataset for Misleading ChartQA.
 .
 ├── code/           # HTML visualization code
 ├── data/           # CSV data files
-├── figures/        # JPEG image files
-└── qa/            # JSON question-answer files
+├── figures/        # JPEG image files (image for each case)
+└── qa/            # JSON question-answer files (QA, misleader, explanation and other meta data for each case)
 ```
 
 ## Case Categories
@@ -41,7 +41,7 @@ This repository contains the sample dataset for Misleading ChartQA.
 - Pie Chart: 5 cases
 - Scatter Plot: 5 cases
 
-### Ms Inappropriate Scale Range
+### Ms Inappropriate Scale Range 
 - Bar Chart: 5 cases
 - Stacked Area Chart: 5 cases
 - Stacked Bar Chart: 5 cases
@@ -58,12 +58,12 @@ This repository contains the sample dataset for Misleading ChartQA.
 - Area Chart: 5 cases
 - Line Chart: 5 cases
 
-### Continous Encoding For Categorical Data
+### Continous Encoding For Categorical Data (Mismatched Encoding)
 - Pie Chart: 5 cases
 - Area Chart: 5 cases
 - Line Chart: 5 cases
 
-### Ms Inappropriate Order
+### Ms Inappropriate Order 
 - Bar Chart: 5 cases
 - Choropleth Map: 5 cases
 - Scatter Plot: 5 cases
@@ -97,20 +97,20 @@ This repository contains the sample dataset for Misleading ChartQA.
 ### Overplotting
 - Scatter Plot: 5 cases
 
-### Lack Of Legend
+### Lack Of Legend (Lack of Labeling)
 - Stacked Area Chart: 5 cases
 - Stacked Bar Chart: 5 cases
 
-### Lack Of Scales
+### Lack Of Scales (Lack of Labeling)
 - Bar Chart: 5 cases
 - Area Chart: 5 cases
 - Line Chart: 5 cases
 
-### Categorical Encoding For Continuous Data
+### Categorical Encoding For Continuous Data (Mismatched Encoding)
 - Heatmap: 5 cases
 - Choropleth Map: 5 cases
 
-### Misleading Annotations
+### Misleading Annotations (Deceptive Labeling)
 - Bar Chart: 5 cases
 - Line Chart: 5 cases
 - Pie Chart: 5 cases
