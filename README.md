@@ -1,0 +1,121 @@
+# Misleading ChartQA - Checked Cases
+
+This repository contains all cases with status "checked" from the Misleading ChartQA dataset.
+
+## Statistics
+- Total checked cases: 305
+- Total files expected: 1220
+- Files successfully copied: 1220
+- Missing files: 0
+
+## Directory Structure
+```
+.
+├── code/           # HTML visualization code
+├── data/           # CSV data files
+├── figures/        # JPEG image files
+└── qa/            # JSON question-answer files
+```
+
+## Case Categories
+
+### Cherry Picking
+- Scatter Plot: 5 cases
+- Line Chart: 5 cases
+
+### Exceeding The Canvas
+- Bar Chart: 5 cases
+- Area Chart: 5 cases
+- Line Chart: 5 cases
+
+### Small Size
+- Scatter Plot: 5 cases
+- Line Chart: 5 cases
+- Choropleth Map: 5 cases
+
+### Ms Inappropriate Scale Functions
+- Bar Chart: 5 cases
+- Pie Chart: 5 cases
+- Line Chart: 5 cases
+
+### Dual Encoding
+- Bar Chart: 5 cases
+- Pie Chart: 5 cases
+- Scatter Plot: 5 cases
+
+### Ms Inappropriate Scale Range
+- Bar Chart: 5 cases
+- Stacked Area Chart: 5 cases
+- Stacked Bar Chart: 5 cases
+- Line Chart: 5 cases
+- Choropleth Map: 5 cases
+
+### Missing Data
+- Choropleth Map: 5 cases
+
+### Inappropriate Aggregation
+- Bar Chart: 5 cases
+- Scatter Plot: 5 cases
+- Stacked Bar Chart: 5 cases
+- Area Chart: 5 cases
+- Line Chart: 5 cases
+
+### Continous Encoding For Categorical Data
+- Pie Chart: 5 cases
+- Area Chart: 5 cases
+- Line Chart: 5 cases
+
+### Ms Inappropriate Order
+- Bar Chart: 5 cases
+- Choropleth Map: 5 cases
+- Scatter Plot: 5 cases
+- Stacked Bar Chart: 5 cases
+- Area Chart: 5 cases
+- Line Chart: 5 cases
+
+### Misuse Of Cumulative Relationship
+- Stacked Bar 100: 5 cases
+- Stacked Bar Chart: 5 cases
+- Stacked Area Chart: 5 cases
+
+### Data Visual Disproportion
+- Bar Chart: 5 cases
+- Scatter Plot: 5 cases
+- Pie Chart: 5 cases
+- Line Chart: 5 cases
+
+### Ms Unconventional Scale Directions
+- Bar Chart: 5 cases
+- Choropleth Map: 5 cases
+- Scatter Plot: 5 cases
+- Area Chart: 5 cases
+- Line Chart: 5 cases
+
+### Concealed Uncertainty
+- Bar Chart: 5 cases
+- Choropleth Map: 5 cases
+- Scatter Plot: 5 cases
+
+### Overplotting
+- Scatter Plot: 5 cases
+
+### Lack Of Legend
+- Stacked Area Chart: 5 cases
+- Stacked Bar Chart: 5 cases
+
+### Lack Of Scales
+- Bar Chart: 5 cases
+- Area Chart: 5 cases
+- Line Chart: 5 cases
+
+### Categorical Encoding For Continuous Data
+- Heatmap: 5 cases
+- Choropleth Map: 5 cases
+
+### Misleading Annotations
+- Bar Chart: 5 cases
+- Line Chart: 5 cases
+- Pie Chart: 5 cases
+
+### Missing Normalization
+- Choropleth Map: 5 cases
