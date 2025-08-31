@@ -3,10 +3,8 @@
 This repository contains all cases with status "checked" from the Misleading ChartQA dataset.
 
 ## Statistics
-- Total checked cases: 305
+- Total sample cases: 305
 - Total files expected: 1220
-- Files successfully copied: 1220
-- Missing files: 0
 
 ## Directory Structure
 ```
